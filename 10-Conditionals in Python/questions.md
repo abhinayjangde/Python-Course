@@ -83,5 +83,11 @@ Problem: Customize a coffee order: "Small", "Medium", or "Large" with an option 
 <summary> 
 13. Pet Food Recommendation
 </summary>
-Problem: 
+Problem: Recommend a type of pet food based on the pet's species and age. (e.g. Dog; <2 years - Puppy Food, Cat >5 years - Senior cat food.)
+</details>
+<details>
+<summary> 
+14. Age Group Categorization
+</summary>
+Problem: Classify a person's age group: Child (<13), Teenager (13-19), Adult (20-59), Senior (60+)
 </details>
