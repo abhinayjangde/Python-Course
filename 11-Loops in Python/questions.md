@@ -155,6 +155,6 @@ Problem: Given a string, find the first non-repeated character.
 <summary>
 20. Validate Input
 </summary>
-Problem: Given a string, find the first non-repeated character.
+Problem: Keep asking the user for input until they enter a number between 1 and 10..
 </br>
 </details>
