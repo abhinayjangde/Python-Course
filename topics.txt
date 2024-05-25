@@ -1,0 +1,26 @@
+00 Introduction
+01 Inner working of Python
+02 Github Codespace
+03 Mutable and Immutable
+04 Data Types
+05 Numbers in Depth
+06 Strings
+07 Lists
+08 Dict
+09 Tuples
+10 Set
+11 Internal working of copy, reference
+12 Conditional statements
+13 Looping statements
+14 Behind the scene of Loop
+15 Functions
+16 Scopes and Closure
+17 OOPs
+19 Decorators in Python
+20 Virtual Environment
+21 File Handling
+22 Exception Handling
+23 Flask 
+24 Django
+25 Python in Different Environment(Win, Mac, Linux, Docker, Cloud, AWS, DigitalOcean)
+26 Projects
