@@ -1,0 +1,9 @@
+1. Write a simple decorator uppercase_decorator that converts the output of the decorated function to uppercase.
+
+2. Write a decorator timeit that measures the execution time of the decorated function.
+
+3. Create a decorator repeat_decorator that repeats the execution of the decorated function n times.
+
+4. Implement a decorator log_decorator that logs the function name and its arguments when the function is called.
+
+5. Write a decorator that can be used on class methods to log their execution.
