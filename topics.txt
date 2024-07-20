@@ -17,10 +17,14 @@
 16 Scopes and Closure
 17 OOPs
 19 Decorators in Python
-20 Virtual Environment
-21 File Handling
-22 Exception Handling
+20 File Handling
+21 Exception Handling
+22 Virtual Environment
+23 More on Python
+24 Project 1 : Video & Music Downloader (GUI)
+25 Project 2 : 
+26 Project 3 : 
+27 Python with MySQL, MongoDB, Postgres
+25 Python in Different Environment(Win, Mac, Linux, Docker, Cloud, AWS, DigitalOcean)
 23 Flask 
 24 Django
-25 Python in Different Environment(Win, Mac, Linux, Docker, Cloud, AWS, DigitalOcean)
-26 Projects
